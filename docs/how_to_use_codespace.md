@@ -24,4 +24,4 @@
 
    - VSCode の画面左下の `><`アイコン > `Connect to Codespace` から作成した Codespace を選択する
 
-        <img width="200px" src="image/vscode_><.png"/>
+        <img width="200px" src="image/vscode_button.png"/>
